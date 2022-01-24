@@ -1,1 +1,2 @@
-# <font color=#FFFF00>Java-training</font>
+```diff
++ Java-training
